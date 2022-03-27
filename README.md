@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vittpr
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Dart.
 - 📫 How to reach me: vittoria.presa02@edu.pucrs.br
 
 <!---
