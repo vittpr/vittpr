@@ -14,9 +14,9 @@
 <p align="center"><i>""</i></p> -->
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/vittpr">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vittpr&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittpr&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -32,7 +32,6 @@
 
 <div align="center">
   <a href="https://www.instagram.com/vittpr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/vittoria-presa-17670421b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
