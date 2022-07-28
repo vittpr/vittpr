@@ -25,8 +25,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="C#" height="50" width="50" src="/photos/Csharp_Logo.png">
-  <img align="center" alt="Java" height="30" width="40" src="https://www.meme-arsenal.com/en/create/template/918579">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="Java" height="30" width="40" src="/photos/mudar aqui">
+  <img align="center" alt="github" height="30" width="30" src="/photos/github_logo_icon_147285.png">
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
 </div><br>
 
