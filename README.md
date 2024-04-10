@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oii! Eu sou a <a href="https://www.linkedin.com/in/vittoria-presa-17670421b/"><i>Vitt</i></a> 👾 </h1>
-  <p align="center">Atualmente sou estudante de Engenharia de Software na <a https://www.pucrs.br"><i>PUCRS</i></a> e estagiária na DELL. 
+  <p align="center">Atualmente sou estudante de Engenharia de Software na <a https://www.pucrs.br"><i>PUCRS</i></a> e Engenheira de Software I na DELL. 
   <a  >
     </>
   </a><br>
